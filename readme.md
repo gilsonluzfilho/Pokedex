@@ -5,6 +5,6 @@
 <br>
 Tecnologias:<br>
 [x] HTML<br>
-[ ] CSS 🎨<br>
+[x] CSS 🎨<br>
 [ ] JavaScript <br>
 <br>
