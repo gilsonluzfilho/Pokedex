@@ -9,3 +9,5 @@ Tecnologias:<br>
 [x] CSS 🎨<br>
 [x] JavaScript <br>
 <br>
+
+![pokedex-gif](https://user-images.githubusercontent.com/109834277/209275655-9a1b2c69-d346-42a2-bd50-6a05b58f5e0f.gif)
